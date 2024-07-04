@@ -3,8 +3,6 @@ App-Controlled Robot Car with Live Video Streaming
 
 
 
-## App-Controlled Robot Car with Live Video Streaming
-
 This repository contains the code and resources for a robot car project controlled through a mobile application! The robot features a camera that streams live video to the app, allowing users to:
 
 * **Remotely Control the Robot Car:** The app provides controls for navigating the robot car in real-time.
